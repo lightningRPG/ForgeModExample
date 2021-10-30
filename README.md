@@ -1,4 +1,4 @@
-# TomorrowsArk
+# ForgeModExample
 声明：此模板是我自己为在 win10 的 vscode 上开发Forge mod而制作的
 ## 使用步骤：
 拷贝此代码库的所有文件到你喜欢的文件夹里\
